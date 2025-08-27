@@ -16,7 +16,7 @@ display: flex;
 align-items: center;
 justify-content: center;
 padding: 20px;
-background-image: url(’./images/bg-desktop.svg’);
+background-image: url(’./images/bg-desktop.png’);
 background-repeat: no-repeat;
 background-size: cover;
 }
@@ -103,7 +103,7 @@ border-color: hsl(300, 69%, 71%);
 /* Mobile Styles */
 @media (max-width: 768px) {
 body {
-background-image: url(’./images/bg-mobile.svg’);
+background-image: url(’./images/bg-mobile.png’);
 background-size: contain;
 background-position: top center;
 padding: 30px;
