@@ -103,7 +103,7 @@ border-color: hsl(300, 69%, 71%);
 /* Mobile Styles */
 @media (max-width: 768px) {
 body {
-background-image: url(’./images/bg-mobile.png’);
+background-image: url("./images/bg-mobile.png");
 background-size: contain;
 background-position: top center;
 padding: 30px;
