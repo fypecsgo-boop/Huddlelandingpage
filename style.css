@@ -16,7 +16,7 @@ display: flex;
 align-items: center;
 justify-content: center;
 padding: 20px;
-background-image: url(’./images/bg-desktop.png’);
+background-image: url("./images/bg-desktop.png");
 background-repeat: no-repeat;
 background-size: cover;
 }
